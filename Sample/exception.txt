@@ -1,0 +1,28 @@
+==================== 12/04/2016 16:08:31 ====================
+
+ *** "Id":"12/04/2016 16:07:58" | 
+"SessionId":"b089315b-0f64-4a34-9d6a-3fe3cdb0892b" | 
+"MachineName":"DELL-PC" | 
+"Title":"LoggingFramework" | 
+"Message":"The method or operation is not implemented." | 
+"Severity":"Error" | 
+"Priority":"Medium" | 
+"IpAddress":"49.35.82.76" | 
+"StackStrace":"   at LogManagement.Controllers.HomeController.About() in c:\\Users\\ADMIN\\Documents\\Visual Studio 2013\\Projects\\LogManagement\\LogManagement\\Controllers\\HomeController.cs:line 51" | 
+"Exception":"System.NotImplementedException: The method or operation is not implemented.\r\n   at LogManagement.Controllers.HomeController.About() in c:\\Users\\ADMIN\\Documents\\Visual Studio 2013\\Projects\\LogManagement\\LogManagement\\Controllers\\HomeController.cs:line 51" *** 
+=============================================
+
+==================== 12/04/2016 16:09:24 ====================
+
+ *** "Id":"12/04/2016 16:07:16" | 
+"SessionId":"d027fab5-dc47-42a5-bb3b-22a29dc117d2" | 
+"MachineName":"DELL-PC" | 
+"Title":"LoggingFramework" | 
+"Message":"The method or operation is not implemented." | 
+"Severity":"Error" | 
+"Priority":"Medium" | 
+"IpAddress":"127.0.0.1" | 
+"StackStrace":"   at LogManagement.Controllers.HomeController.About() in c:\\Users\\ADMIN\\Documents\\Visual Studio 2013\\Projects\\LogManagement\\LogManagement\\Controllers\\HomeController.cs:line 51" | 
+"Exception":"System.NotImplementedException: The method or operation is not implemented.\r\n   at LogManagement.Controllers.HomeController.About() in c:\\Users\\ADMIN\\Documents\\Visual Studio 2013\\Projects\\LogManagement\\LogManagement\\Controllers\\HomeController.cs:line 51" *** 
+=============================================
+

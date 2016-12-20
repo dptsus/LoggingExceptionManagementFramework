@@ -1,0 +1,14 @@
+==================== 12/04/2016 16:02:45 ====================
+
+ *** "Id":"12/04/2016 16:02:31" | 
+"SessionId":"a4687176-9e8d-47cf-a4e7-a7d6cdbaf1b6" | 
+"MachineName":"DELL-PC" | 
+"IpAddress":"49.35.82.76" | 
+"Status":"True" | 
+"ResponseTime":0.0 | 
+"Title":"LoggingFramework" | 
+"CallType":"About" | 
+"Request":"null" | 
+"Response":"null" *** 
+=============================================
+
